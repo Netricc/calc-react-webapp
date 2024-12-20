@@ -7,12 +7,12 @@ Follow these steps to clone the repository and start coding:
 ### 1. Clone the Repository
 ```bash
 # Use this command to clone the repository
-git clone https://github.com/your-username/nike-clone.git
+git clone https://github.com/Netricc/calc-react-webapp.git
 ```
 
 ### 2. Navigate to the Project Directory
 ```bash
-cd nike-clone
+cd calc-react-webapp
 ```
 
 ### 3. Install Dependencies
